@@ -1,0 +1,24 @@
+{
+  "name": "music_store",
+  "description": "",
+  "main": "public/javascripts/app.js",
+  "authors": [
+    "hike10000miles <chenshen4009@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "handlebars": "^4.0.5",
+    "backbone": "^1.3.3",
+    "underscore": "^1.8.3"
+  }
+}
